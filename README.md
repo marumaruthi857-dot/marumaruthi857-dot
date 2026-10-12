@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Maruthi H A 👋
 
-<!--
-**marumaruthi857-dot/marumaruthi857-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Graduate | Aspiring QA Analyst | Python | SQL | AI/ML
 
-Here are some ideas to get you started:
+I'm interested in software testing, quality assurance,
+software development, and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python, Java, C, C++
+- SQL, SQLite, DBMS
+- HTML, CSS, Flask
+- Machine Learning, Scikit-learn
+- Git and GitHub
+
+## Projects
+- Customer Churn Prediction Using Machine Learning
+- Smart Home Security Door Lock System
+
+## Education
+- MCA — Tumkur University
+- B.Sc. — University College of Science, Tumkur
+
+## Certifications
+- NCC 'B' Certificate
+- Cybersecurity Basics Certificate
+
+## Career Interests
+- Software Testing and Quality Assurance
+- Software Development
+- Data Analysis
+- Artificial Intelligence and Machine Learning
+
+## Contact
+Email: marumaruthi857@gmail.com
+phone number:- 8867055390
