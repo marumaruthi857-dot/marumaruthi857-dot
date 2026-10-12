@@ -32,4 +32,3 @@ software development, and data analysis.
 
 ## Contact
 Email: marumaruthi857@gmail.com
-phone number:- 8867055390
